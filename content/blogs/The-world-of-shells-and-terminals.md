@@ -41,7 +41,10 @@ Finally, I also want to mention the versatility of Bash. Bash offers a wide rang
 There are 2 ways you can pass commands to the shell. You can decide to do it manually, one at a time  and get immediate feedback by using the shell prompt. The shell prompt typically displays information such as the user’s username, hostname and the current working directory. 
 
 <div align="center">
-    <img src=/images/terminal2.webp>
+    <figure>
+        <img src=/images/terminal2.webp>
+        <figcaption><em>kc is the username, localhost is the host name, ~ is the home directory(/home/kc)</em></figcaption>
+    </figure>
 </div>
 
 You can also pass commands to the shell by writing scripts. A script is a text file that contains a set of commands that can be executed automatically by the shell. Scripting(passing commands via scripts which can be written in different programming languages) allows you automate repetitive tasks and perform operations that require multiple commands 
