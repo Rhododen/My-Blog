@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminals on Weekly Automation</title>
+    <link>http://example.org/tags/terminals/</link>
+    <description>Recent content in Terminals on Weekly Automation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 May 2023 20:33:44 +0100</lastBuildDate><atom:link href="http://example.org/tags/terminals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The World of Shells and Terminals</title>
+      <link>http://example.org/blogs/the-world-of-shells-and-terminals/</link>
+      <pubDate>Thu, 18 May 2023 20:33:44 +0100</pubDate>
+      
+      <guid>http://example.org/blogs/the-world-of-shells-and-terminals/</guid>
+      <description>Hey there!
+Do you know you don&amp;rsquo;t speak the same language as your computer? While you may be multilingual, your computer only speaks and understands one language. Binary.
+Right. You may be able to speak Spanish and English but your computer can only speak ones and zeros.
+How do I then make my computer do what I want it to do?
+The Kernel: The kernel is the core of the operating system (Think of the engine in a car).</description>
+    </item>
+    
+  </channel>
+</rss>

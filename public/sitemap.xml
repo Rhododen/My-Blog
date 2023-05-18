@@ -2,8 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/tags/bash/</loc>
+    <lastmod>2023-05-18T20:33:44+01:00</lastmod>
+  </url><url>
     <loc>http://example.org/blogs/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
+    <lastmod>2023-05-18T20:33:44+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/linux/</loc>
+    <lastmod>2023-05-18T20:33:44+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/operating-systems/</loc>
+    <lastmod>2023-05-18T20:33:44+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2023-05-18T20:33:44+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/terminals/</loc>
+    <lastmod>2023-05-18T20:33:44+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blogs/the-world-of-shells-and-terminals/</loc>
+    <lastmod>2023-05-18T20:33:44+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2023-05-18T20:33:44+01:00</lastmod>
   </url><url>
     <loc>http://example.org/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
@@ -15,12 +36,6 @@
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
     <loc>http://example.org/tags/sample/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>

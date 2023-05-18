@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Weekly Automation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 May 2023 20:33:44 +0100</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bash</title>
+      <link>http://example.org/tags/bash/</link>
+      <pubDate>Thu, 18 May 2023 20:33:44 +0100</pubDate>
+      
+      <guid>http://example.org/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://example.org/tags/linux/</link>
+      <pubDate>Thu, 18 May 2023 20:33:44 +0100</pubDate>
+      
+      <guid>http://example.org/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operating systems</title>
+      <link>http://example.org/tags/operating-systems/</link>
+      <pubDate>Thu, 18 May 2023 20:33:44 +0100</pubDate>
+      
+      <guid>http://example.org/tags/operating-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terminals</title>
+      <link>http://example.org/tags/terminals/</link>
+      <pubDate>Thu, 18 May 2023 20:33:44 +0100</pubDate>
+      
+      <guid>http://example.org/tags/terminals/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Emoji support</title>
       <link>http://example.org/tags/emoji-support/</link>
