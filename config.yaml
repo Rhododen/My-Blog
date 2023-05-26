@@ -29,11 +29,7 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 1
-    - identifier: project
-      name: Projects
-      title: Projects
-      url: /projects
-      weight: 1
+
     #- identifier: gallery
     #  name: Gallery
     #  title: Blog posts
@@ -296,6 +292,7 @@ params:
   # projects
   projects:
     enable: true
+    url: /projects
     # title: "Custom Name"
     items:
       # - title: Vprofile

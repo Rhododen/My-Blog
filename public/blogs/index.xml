@@ -6,7 +6,19 @@
     <description>Recent content in Blogs on Weekly Automation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2023 20:33:44 +0100</lastBuildDate><atom:link href="http://example.org/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 May 2023 17:14:44 +0100</lastBuildDate><atom:link href="http://example.org/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Error 404</title>
+      <link>http://example.org/blogs/error-404/</link>
+      <pubDate>Fri, 26 May 2023 17:14:44 +0100</pubDate>
+      
+      <guid>http://example.org/blogs/error-404/</guid>
+      <description>Hey there!
+Let&amp;rsquo;s take a look at what happens when you enter a URL into your browser’s address bar.
+When you tell your browser you want to visit www.aliexpress.com, your browser is clueless. It doesn&amp;rsquo;t know where that is, which is why it has to translate that address (www.aliexpress.com) to a format it can read. This process is called DNS resolution(Don’t worry if you don&amp;rsquo;t know what that is).
+Your browser contacts a DNS server and a conversation like this happens.</description>
+    </item>
+    
     <item>
       <title>The World of Shells and Terminals</title>
       <link>http://example.org/blogs/the-world-of-shells-and-terminals/</link>

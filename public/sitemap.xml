@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/bash/</loc>
-    <lastmod>2023-05-18T20:33:44+01:00</lastmod>
-  </url><url>
     <loc>http://example.org/blogs/</loc>
+    <lastmod>2023-05-26T17:14:44+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blogs/error-404/</loc>
+    <lastmod>2023-05-26T17:14:44+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2023-05-26T17:14:44+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/bash/</loc>
     <lastmod>2023-05-18T20:33:44+01:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/linux/</loc>
@@ -21,9 +27,6 @@
     <lastmod>2023-05-18T20:33:44+01:00</lastmod>
   </url><url>
     <loc>http://example.org/blogs/the-world-of-shells-and-terminals/</loc>
-    <lastmod>2023-05-18T20:33:44+01:00</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
     <lastmod>2023-05-18T20:33:44+01:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
