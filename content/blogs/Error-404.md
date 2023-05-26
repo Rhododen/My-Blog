@@ -1,6 +1,6 @@
 ---
 title: "Error 404"
-date: 2023-05-26T17:14:44+01:00
+date: 2023-04-01T17:14:44+01:00
 draft: false
 author: Rhoda
 tags:
@@ -12,15 +12,15 @@ Hey there!
 
 Let's take a look at what happens when you enter a URL into your browser’s address bar.
 
-When you tell your browser you want to visit www.aliexpress.com, your browser is clueless. It doesn't know where that is, which is why it has to translate that address (www.aliexpress.com) to a format it can read. This process is called DNS resolution(Don’t worry if you don't know what that is).
+When you tell your browser you want to visit www.aliexpress.com, your browser is clueless. It doesn't know where that is, which is why it has to translate that address *(www.aliexpress.com)* to a format it can read. This process is called DNS resolution(Don’t worry if you don't know what that is).
 
 Your browser contacts a DNS server and a conversation like this happens.
 
-Browser: Hey, My boss wants to visit www.aliexpress.com. Any idea where that is?
+*Browser: Hey, My boss wants to visit www.aliexpress.com. Any idea where that is?*
 
-DNS server: Sure. You’ve come to ask the right person. That is located at 47.254.175.252
+*DNS server: Sure. You’ve come to ask the right person. That is located at 47.254.175.252*
 
-Your browser then sends a request to 47.254.175.252 (You can paste this in your browser and see what happens). This is known as the IP address which help devices and servers find and communicate with each other and every device (phones, laptops, MiFis, etc) and server has an IP address
+Your browser then sends a request to *47.254.175.252* (You can paste this in your browser and see what happens). This is known as the IP address which help devices and servers find and communicate with each other and every device (phones, laptops, MiFis, etc) and server has an IP address
 
 After your browser sends a request to the web server(a.k.a www.aliexpress.com, a.k.a  47.254.175.252),  the server receives and processes the request, and then sends back the relevant resources(HTML, CSS, JavaScript, and other resources that make up the web page)
 
@@ -37,7 +37,7 @@ After the web server sends the response, your browser has to render the response
 <!-- An  Image -->  
 
 <div align="center">
-    <img src=/images/4042.webp>
+    <img src=/images/4042.webp width="65%" height="35%">
 </div>
 
  <br>  
@@ -47,7 +47,7 @@ Instead of this:
 <!-- An  Image -->  
 
 <div align="center">
-    <img src=/images/4043.webp>
+    <img src=/images/4043.webp width="40%" height="60%">
 </div>
 
  <br>  
@@ -75,7 +75,7 @@ The classes of code that usually indicate a problem are the 4XX and 5XX classes.
 <!-- An  Image -->  
 
 <div align="center">
-    <img src=/images/4044.webp>
+    <img src=/images/4044.webp width="65%" height="35%">
 </div>
 
  <br>  
@@ -86,8 +86,7 @@ The classes of code that usually indicate a problem are the 4XX and 5XX classes.
 <!-- An  Image -->  
 
 <div align="center">
-    <img src=/images/4045<div align="center">
-    <img src=/images/4041.webp>
+    <img src=/images/4045.webp>
 </div>
 
  <br>  
@@ -99,7 +98,7 @@ The classes of code that usually indicate a problem are the 4XX and 5XX classes.
 <!-- An Image -->
 
 <div align="center">
-    <img src=/images/4046.webp>
+    <img src=/images/4046.webp width="65%" height="35%">
 </div>
 
  <br>  
@@ -127,7 +126,7 @@ Finally, you have the error 418 which you get when you tell your teapot to brew 
 <!-- An  Image -->  
 
 <div align="center">
-    <img src=/images/4049.webp>
+    <img src=/images/4049.webp width="65%" height="35%">
 </div>
 
  <br>  

@@ -6,11 +6,11 @@
     <description>Recent content in Bash on Weekly Automation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2023 20:33:44 +0100</lastBuildDate><atom:link href="http://example.org/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Mar 2023 20:33:44 +0100</lastBuildDate><atom:link href="http://example.org/tags/bash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The World of Shells and Terminals</title>
       <link>http://example.org/blogs/the-world-of-shells-and-terminals/</link>
-      <pubDate>Thu, 18 May 2023 20:33:44 +0100</pubDate>
+      <pubDate>Sat, 25 Mar 2023 20:33:44 +0100</pubDate>
       
       <guid>http://example.org/blogs/the-world-of-shells-and-terminals/</guid>
       <description>Hey there!
@@ -18,6 +18,16 @@ Do you know you don&amp;rsquo;t speak the same language as your computer? While 
 Right. You may be able to speak Spanish and English but your computer can only speak ones and zeros.
 How do I then make my computer do what I want it to do?
 The Kernel: The kernel is the core of the operating system (Think of the engine in a car).</description>
+    </item>
+    
+    <item>
+      <title>Bourne Again Scripting?</title>
+      <link>http://example.org/blogs/bourne-again-scripting/</link>
+      <pubDate>Wed, 22 Mar 2023 20:26:59 +0100</pubDate>
+      
+      <guid>http://example.org/blogs/bourne-again-scripting/</guid>
+      <description>While we may all appreciate the role Robert Downey Jr(Tony Stark/Iron man) played in the MCU. I’m pretty sure we all know that a larger part of his conversations and actions in the cinematic universe is based on a script the writers sent to him.
+Yeah, I know RDJ was born for the Iron suit, he’s everyone’s favourite(I might have shed a tear when Iron man died) and it is said that most of our favourite lines in the MCU was thought up on the spot by RDJ and the directors thought them good enough to keep them in the movies.</description>
     </item>
     
   </channel>
