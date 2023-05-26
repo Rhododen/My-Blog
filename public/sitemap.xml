@@ -26,18 +26,6 @@
     <loc>http://example.org/</loc>
     <lastmod>2023-05-18T20:33:44+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/blogs/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/example/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/sample/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
     <loc>http://example.org/categories/</loc>
   </url>
 </urlset>

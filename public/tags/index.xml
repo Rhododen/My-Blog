@@ -43,32 +43,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Emoji support</title>
-      <link>http://example.org/tags/emoji-support/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      
-      <guid>http://example.org/tags/emoji-support/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>example</title>
-      <link>http://example.org/tags/example/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      
-      <guid>http://example.org/tags/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sample</title>
-      <link>http://example.org/tags/sample/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      
-      <guid>http://example.org/tags/sample/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
