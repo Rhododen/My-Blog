@@ -126,8 +126,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Rhoda."
-    subtitle: "My favourite word? AUTOMATION"
-    content: "A devops engineer and I'm all about continuous integration, automation and colaboration. I have a weekly newsletter named *Weekly Automation*. Kindly subscribe by using the button below"
+    subtitle: "My favourite word? SIMPLIFY"
+    content: " I'm all about simplifying everyday tech topics and I have a newsletter *Weekly Automation* where I do just that. Kindly subscribe by using the button below"
     image: /images/profile-picture.jpg
     bottomImage:
       enable: true
@@ -142,8 +142,8 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/rhododen
-        - icon: fab fa-twitter
-          url: https://twitter.com/weekly_automatn?s=08
+        - icon: fab fa-instagram
+          url: https://www.instagram.com/rhoda.ayomikun/
       customIcons:
         - icon: /favicon.png #add weekly automation here
           url: "https://rhododendron.substack.com"
@@ -154,7 +154,7 @@ params:
     title: "About Me"
     image: "/images/me.jpg"
     content: |-
-      I am a devops engineer with a passion for automation and ensuring a seamless workflow of processes. I am experienced in collaborating with other teams within the organization to identify and implement initaitives to improve the quality of service delivered.
+      I am an aspiring devops engineer with a passion for automation and ensuring a seamless workflow of processes. I am experienced in collaborating with other teams within the organization to identify and implement initaitives to improve the quality of service delivered.
       
       I believe in constant search for knowledge and more effective ways of getting work done.
     skills:
@@ -176,7 +176,7 @@ params:
       - job: "Customer Experience Analyst"
         company: "Flutterwave Inc."
         #companyUrl: "https://example.com"
-        date: "Aug 2022 - present"
+        date: "Aug 2022 - Nov 2023"
         # featuredLink:
         #   enable: false
         #   name: "View the project"
@@ -300,61 +300,61 @@ params:
   #       url: https://example.com
 
   # projects
-  projects:
-    enable: true
-    url: /projects
-    # title: "Custom Name"
-    items:
-      # - title: Vprofile
-      #   content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-      #   image: /images/projects/profile.png
-      #   featured:
-      #     name: Demo
-      #     link: https://hugo-profile.netlify.app
-      #   badges:
-      #     - "Hugo"
-      #     - "Bootstrap"
-      #     - "Javascript"
-      #   links:
-      #     - icon: fa fa-envelope
-      #       url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-      #     - icon: fab fa-github
-      #       url: https://github.com/gurusabarish/hugo-profile
-      #     - icon: fab fa-twitter
-      #       url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+  # projects:
+  #   enable: true
+  #   url: /projects
+  #   # title: "Custom Name"
+  #   items:
+  #     # - title: Vprofile
+  #     #   content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+  #     #   image: /images/projects/profile.png
+  #     #   featured:
+  #     #     name: Demo
+  #     #     link: https://hugo-profile.netlify.app
+  #     #   badges:
+  #     #     - "Hugo"
+  #     #     - "Bootstrap"
+  #     #     - "Javascript"
+  #     #   links:
+  #     #     - icon: fa fa-envelope
+  #     #       url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+  #     #     - icon: fab fa-github
+  #     #       url: https://github.com/gurusabarish/hugo-profile
+  #     #     - icon: fab fa-twitter
+  #     #       url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: FoodTruck
-        content: FoodTruck is an open source web application that allows users to find food trucks near their current location or search for food trucks.
-        image: /images/projects/docker.png
-        # featured:
-        #   name: Demo
-        #   link: https://django-converter.herokuapp.com
-        badges:
-          - "Docker"
-          - "AWS ECS"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/Rhododen/FoodTruck-Docker.git
+  #     - title: FoodTruck
+  #       content: FoodTruck is an open source web application that allows users to find food trucks near their current location or search for food trucks.
+  #       image: /images/projects/docker.png
+  #       # featured:
+  #       #   name: Demo
+  #       #   link: https://django-converter.herokuapp.com
+  #       badges:
+  #         - "Docker"
+  #         - "AWS ECS"
+  #       links:
+  #         - icon: fab fa-github
+  #           url: https://github.com/Rhododen/FoodTruck-Docker.git
 
-      - title: Photoprism
-        content: Photoprism is an open source photo management solution that brings order to your digital image colection. Photoprism helps you organize, browse and share your photos effortlessly.
-        image: /images/projects/photoprism.jpeg
-        # featured:
-        #   name: Demo V2
-        #   link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Docker-Compose"
-          - "AWS EC2"
-          - "MariaDB"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/
+  #     - title: Photoprism
+  #       content: Photoprism is an open source photo management solution that brings order to your digital image colection. Photoprism helps you organize, browse and share your photos effortlessly.
+  #       image: /images/projects/photoprism.jpeg
+  #       # featured:
+  #       #   name: Demo V2
+  #       #   link: https://hugo-profile-2.netlify.app
+  #       badges:
+  #         - "Docker-Compose"
+  #         - "AWS EC2"
+  #         - "MariaDB"
+  #       links:
+  #         - icon: fab fa-github
+  #           url: https://github.com/
 
   #Contact
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll definitely get back to you!
     email: rhododendronnn@gmail.com
     btnName: Mail me
     # formspree:
@@ -373,9 +373,9 @@ params:
     socialNetworks:
       github: https://github.com/rhododen
       linkedin: https://www.linkedin.com/in/adegbola-rhoda-915371229
-      twitter: https://twitter.com/weekly_automatn?s=08
-      # instagram: https://instagram.com
-      # facebook: https://facebook.com
+      # twitter: https://twitter.com/weekly_automatn?s=08
+      instagram: https://www.instagram.com/rhoda.ayomikun/
+      
 
   # List pages like blogs and posts
   listPages:
